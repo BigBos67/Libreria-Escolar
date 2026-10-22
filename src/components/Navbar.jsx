@@ -4,7 +4,7 @@ export default function Navbar() {
   return (
     <header className="navbar">
       <div className="container nav-inner">
-        <span className="logo">📚 Libreria Aula</span>
+        <span className="logo">Libreria Aula</span>
         <nav>
           <NavLink to="/">Inicio</NavLink>
           <NavLink to="/catalogo">Catalogo</NavLink>
