@@ -1,3 +1,4 @@
+//la parte de los diferentes productos que hay 
 const img = (txt, color) =>
   `https://placehold.co/400x300/${color}/ffffff?text=${txt}`;
 
