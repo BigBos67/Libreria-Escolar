@@ -5,3 +5,4 @@ export default function Footer() {
     </footer>
   );
 }
+//esto seria en la parte de abajo de la pagina

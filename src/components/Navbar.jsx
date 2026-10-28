@@ -1,3 +1,4 @@
+//esto seria donde se navega entre los diferentes partes de la pagina 
 import { NavLink } from "react-router-dom";
 
 export default function Navbar() {
