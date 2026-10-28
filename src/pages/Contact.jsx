@@ -1,5 +1,5 @@
 //aqui es donde se envia los correos para una consulta, en este caso el mio.
-//pero lo cambie para que usted pueda poner el suyo y probarlo
+//pero lo cambie para que usted profe pueda poner el suyo y probarlo
 import { useRef, useState } from "react";
 import emailjs from "@emailjs/browser";
 
